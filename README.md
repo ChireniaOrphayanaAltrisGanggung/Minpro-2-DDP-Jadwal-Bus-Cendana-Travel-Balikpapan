@@ -12,7 +12,7 @@ Program Jadwal Keberangkatan Bus Cendana Travel Balikpapan merupakan pengembanga
 
 Program menggunakan list untuk menyimpan data jadwal dan dictionary untuk menyimpan informasi akun, password, serta role pengguna. Terdapat dua role, yaitu admin yang memiliki akses CRUD lengkap dan user yang dapat melihat jadwal serta memberikan ulasan.
 
-**Untuk memenuhi nilai tambah, program juga menggunakan beberapa library Python, yaitu os untuk membersihkan layar, pwinput untuk menyembunyikan input password, dan PrettyTable untuk menampilkan data dalam bentuk tabel. Program juga menggunakan Validasi input dan try-except yang diterapkan untuk membantu menangani masukan yang tidak sesuai.**
+**Untuk memenuhi nilai tambah, program juga menggunakan 3 library Python, yaitu os untuk membersihkan layar, pwinput untuk menyembunyikan input password, dan PrettyTable untuk menampilkan data dalam bentuk tabel. Program juga menggunakan Validasi input dan try-except yang diterapkan untuk membantu menangani masukan yang tidak sesuai.**
 
 **B. PENJELASAN SINGKAT ALUR FLOWCHART**
 
